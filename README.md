@@ -1,4 +1,5 @@
-# landing-on-indigo
+# landing on indigo
+
 
 The aim of this repository is to quickly onboard new users and provide educational cheat sheets, all in one place.
 Feel free to contribute.
