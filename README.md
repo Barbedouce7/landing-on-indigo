@@ -51,6 +51,8 @@ Todo.
 
 [Protocol Website](https://indigoprotocol.io/) : Access financial tools and participate in voting.
 
+[Protocol Documentation](https://docs.indigoprotocol.io/) : Documentation about the protocol.
+
 [Foundation Website](https://indigo-foundation.org/) : Official website of the Indigo Foundation.
 
 [Indigo Forum](https://forum.indigoprotocol.io/) : Discussion platform for the Indigo community.
