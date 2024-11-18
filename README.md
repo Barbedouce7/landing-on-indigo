@@ -10,13 +10,9 @@ Feel free to contribute.
 
 # 1. Structure of the Indigo Ecosystem :
 
-Indigo — Tokenize Everything
-
-### Decentralization - Growth - Collaboration
-
 The Indigo Protocol enables the creation and management of synthetic assets, providing access to decentralized financial tools with the security and scalability of the Cardano blockchain.
 
-# Indigo Foundation & DAO
+## Indigo Foundation & DAO
 
 The **Indigo Foundation** connects the **DAO** to the real world.
 It manages resources, fosters relationships, and provides structure to the ecosystem.
@@ -25,12 +21,12 @@ Its goal is long-term stability and growth through community-driven initiatives.
 The **foundation** supports the **Indigo DAO**, the decision-making body composed of **INDY token holders**, who actively vote on proposals to shape the ecosystem (e.g., introducing a new iAsset or updating parameters).
 
 
-# Indigo Labs
+## Indigo Labs
 
 Indigo Labs drives development efforts, working on new features and enhancements, such as Protocol V2. The team is elected by the DAO.
 
 
-# Working groups
+## Working groups
 Indigo also relies on working groups, elected by the DAO, that focus on key objectives supporting various elements of the ecosystem.
 
 
