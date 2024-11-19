@@ -66,6 +66,7 @@ LST : Liquid State Transition
 # 3. Cheat sheets
 ![image](https://raw.githubusercontent.com/Barbedouce7/landing-on-indigo/refs/heads/main/indigo-express-learn.png)
 
+[Few stategies here](https://github.com/Barbedouce7/landing-on-indigo)
 
 # 4. Links
 
