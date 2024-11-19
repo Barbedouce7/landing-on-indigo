@@ -41,7 +41,27 @@ Together, the Indigo ecosystem — starting with the DAO, and including the foun
 
 
 # 2. Acronyms, vocabulary, key concepts
-Todo.
+
+DAO : Decentralised Autonomous Organisation
+
+CDP : Collateral Debt Position
+
+LR : Liquidation Ratio
+
+MR : Maintenance Ratio
+
+SP : Stability Pool
+
+RMR : Redemption Margin Ratio
+
+TVL : Total Value Locked
+
+LP : Liquidity Pool
+
+HRA : Historical Returns Annualized
+
+LST : Liquid State Transition
+
 
 # 3. Cheat sheets
 ![image](https://raw.githubusercontent.com/Barbedouce7/landing-on-indigo/refs/heads/main/indigo-express-learn.png)
