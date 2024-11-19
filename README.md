@@ -44,7 +44,7 @@ Together, the Indigo ecosystem — starting with the DAO, and including the foun
 Todo.
 
 # 3. Cheat sheets
-Todo.
+![image](https://raw.githubusercontent.com/Barbedouce7/landing-on-indigo/refs/heads/main/indigo-express-learn.png)
 
 
 # 4. Links
