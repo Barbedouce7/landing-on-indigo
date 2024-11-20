@@ -62,6 +62,8 @@ HRA : Historical Returns Annualized
 
 LST : Liquid State Transition
 
+AQB : Adaptive Quorum Biasing
+
 
 # 3. Cheat sheets
 ![image](https://raw.githubusercontent.com/Barbedouce7/landing-on-indigo/refs/heads/main/indigo-express-learn.png)
