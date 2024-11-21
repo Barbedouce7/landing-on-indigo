@@ -62,7 +62,7 @@ HRA : Historical Returns Annualized
 
 LST : Liquid State Transition
 
-AQB : Adaptive Quorum Biasing
+**AQB** : **Adaptive Quorum Biasing** is a mechanism that dynamically adjusts the threshold of affirmative votes required for a proposal to pass, based on voter participation, balancing flexibility and legitimacy in voting processes. [More infos here](https://docs.indigoprotocol.io/readme/governance-and-indy-staking/aqb-and-minimum-quorum)
 
 
 # 3. Cheat sheets
