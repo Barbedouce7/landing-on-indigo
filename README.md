@@ -60,7 +60,7 @@ LP : Liquidity Pool
 
 HRA : Historical Returns Annualized
 
-LST : Liquid State Transition
+**LST** : **Liquid State Transition** is an off-chain infrastructure to optimize transactions with stability pools.
 
 **AQB** : **Adaptive Quorum Biasing** is a mechanism that dynamically adjusts the threshold of affirmative votes required for a proposal to pass, based on voter participation, balancing flexibility and legitimacy in voting processes. [More infos here](https://docs.indigoprotocol.io/readme/governance-and-indy-staking/aqb-and-minimum-quorum)
 
@@ -91,4 +91,6 @@ LST : Liquid State Transition
 [Discord Server](https://discord.com/invite/YUbduZezdP) : Join the official Indigo Discord community.
 
 [YouTube Channel](https://www.youtube.com/channel/UCZtghAMaSza6v6d1ie9ACIg) : Official Indigo YouTube channel.
+
+[Medium](https://indigoprotocol1.medium.com/) : Official blog
 
