@@ -68,7 +68,8 @@ HRA : Historical Returns Annualized
 # 3. Cheat sheets
 ![image](https://raw.githubusercontent.com/Barbedouce7/landing-on-indigo/refs/heads/main/indigo-express-learn.png)
 
-[Few stategies here](https://github.com/Barbedouce7/landing-on-indigo)
+[Few stategies here](https://barbedouce7.github.io/IndigoStrats/)
+
 
 # 4. Links
 
